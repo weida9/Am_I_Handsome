@@ -14,10 +14,6 @@ A fun, interactive web application that provides users with a playful "handsomen
 - **Responsive Design**: Works seamlessly on all device sizes
 - **Smooth Animations**: Beautiful transitions and effects
 
-## 🚀 Demo
-
-Visit the live demo: [Am I Handsome App](https://yourdomain.com/am-i-handsome)
-
 ## 💻 Tech Stack
 
 - HTML5 & CSS3
