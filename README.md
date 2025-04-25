@@ -95,12 +95,6 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📬 Contact
-
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/yourusername/am-i-handsome](https://github.com/yourusername/am-i-handsome)
-
 ---
 
 Made with ❤️ using modern web technologies 
